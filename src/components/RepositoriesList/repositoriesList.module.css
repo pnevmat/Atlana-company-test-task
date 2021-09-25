@@ -1,0 +1,55 @@
+.repositoriesList {
+    display: inline-block;
+    width: 100%;
+    max-width: 900px;
+    text-align: center;
+}
+
+.repositoriesList :last-child {
+    margin-bottom: 0;
+}
+
+.repositoriesItem {
+    display: inline-block;
+    width: 100%;
+    max-width: 700px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.repositoriesListItemLink {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    
+    font-family:sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #000000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.repositoriesListItemContainer {
+    width: 100%;
+    max-width: 80px;
+}
+
+.repositoriesListTextContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.repositoriesListItemName {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+}

@@ -1,0 +1,45 @@
+.userCardContainer {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.userCard {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 600px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    border: solid 1px #000000;
+    border-radius: 15px;
+}
+
+.userAvatar {
+    width: 100%;
+    max-width: 200px;
+}
+
+.userCardInfoContainer {
+    width: 100%;
+    max-width: 290px;
+}
+
+.InfoItemContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.InfoItemContainer:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.InfoItemtext {
+    margin: 0;
+    font-weight: 400;
+    font-size: 20px;
+}

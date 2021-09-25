@@ -1,0 +1,47 @@
+.usersList {
+    display: inline-block;
+    width: 100%;
+    max-width: 900px;
+    text-align: center;
+}
+
+.usersList :last-child {
+    margin-bottom: 0;
+}
+
+.usersListItem {
+    display: inline-block;
+    width: 100%;
+    max-width: 700px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.usersListItemButton {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    border: none;
+    background-color: #ffffff;
+    font-family:sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.usersListItemAvatar {
+    width: 100%;
+    max-width: 50px;
+}
+
+.usersListItemName {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+}

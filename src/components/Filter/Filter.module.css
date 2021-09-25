@@ -1,0 +1,22 @@
+.filterInputContainer {
+    text-align: center;
+}
+
+.filterInput {
+    display: inline-block;
+    width: 100%;
+    max-width: 400px;
+    height: 40px;
+    padding: 2px;
+    border-radius: 5px;
+    border-style: solid;
+    margin-bottom: 50px;
+}
+
+.filterInput::placeholder {
+    font-size: 25px;
+}
+
+.search_input:focus {
+    outline: 4px solid #c7e4f0;
+}
