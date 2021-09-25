@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Atlana-company-test-task/static/css/main.3a4e4793.chunk.css",
+    "main.js": "/Atlana-company-test-task/static/js/main.91c64173.chunk.js",
+    "main.js.map": "/Atlana-company-test-task/static/js/main.91c64173.chunk.js.map",
+    "runtime-main.js": "/Atlana-company-test-task/static/js/runtime-main.6f313c29.js",
+    "runtime-main.js.map": "/Atlana-company-test-task/static/js/runtime-main.6f313c29.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/Atlana-company-test-task/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.f6e8e64d.chunk.js": "/Atlana-company-test-task/static/js/2.f6e8e64d.chunk.js",
+    "static/js/2.f6e8e64d.chunk.js.map": "/Atlana-company-test-task/static/js/2.f6e8e64d.chunk.js.map",
+    "index.html": "/Atlana-company-test-task/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/Atlana-company-test-task/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.3a4e4793.chunk.css.map": "/Atlana-company-test-task/static/css/main.3a4e4793.chunk.css.map",
+    "static/js/2.f6e8e64d.chunk.js.LICENSE.txt": "/Atlana-company-test-task/static/js/2.f6e8e64d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f313c29.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.f6e8e64d.chunk.js",
+    "static/css/main.3a4e4793.chunk.css",
+    "static/js/main.91c64173.chunk.js"
+  ]
+}
